@@ -39,6 +39,8 @@ Register now to unlock the benefits of NLP for your business!
 ## 2. Covered Tasks and Available Codes
 [Back to ToC](#toc)
 
+Despite the large number of algorithms developed for NLP, there are just a few fundamentally different types of tasks that form the basis of most NLP applications and industry use cases. In this lecture it's covered the following NLP tasks, presenting what they are and some **code snippets for application in English and Portuguese**.
+
 ### Language Modeling
 
 This is the task of predicting what the next word in a sentence will be based on the history of previous words. 
@@ -82,7 +84,7 @@ This is the task of building a system that can automatically answer questions po
 Available codes snippets:
   * [Question Answering (QA) with HuggingFace Transformers](https://github.com/larpig/tdc-innovation-2023-nlp-overview/blob/main/codes/Question%20Answering%20(QA)%20with%20HuggingFace%20Transformers.ipynb)
 
-### Translation]
+### Translation
 
 This is the task of converting a piece of text from one language to another.
 
@@ -99,7 +101,7 @@ The lecture references can be found on the [slides](https://github.com/larpig/td
 ## 3. Speaker
 [Back to ToC](#toc)
 
-Luis is a Data Scientist with +7 years of experience in the field, working especially on Recommender Systems and Natural Language Processing projects. 
+[Luis Rodrigues](https://www.linkedin.com/in/luis-rodrigues-phd/) is a Data Scientist with +7 years of experience in the field, working especially on Recommender Systems and Natural Language Processing projects. 
 He is currently a Data Science Consultant at Aubay Portugal, acting as a Principal Data Scientist for Banco de Portugal in an NLP project.
 Previously, he was Lead Data Scientist at CI&T, a digital transformation company, where he specially helped to develop a recommender system for Nestlé, the largest CPG company in the world. Prior to that, Luis led the Data Science team of Propz, a CRM and marketing company for retail, where he helped to develop product modules such as product recommendation engine, contact time engine and customer segmentation engine. 
 He also served as a researcher at I.Systems, developing analytic strategies for modeling, forecasting, control and optimization of water distribution systems, and University of Campinas, focusing in system and control theory and their applications in active control of noise and vibration and robot trajectory tracking problems. 
